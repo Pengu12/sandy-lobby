@@ -1,0 +1,10 @@
+{
+  "name": "sandy-lobby",
+  "version": "1.0.0",
+  "description": "Room codes for playing Sandy together: passes the WebRTC handshake between a host and its friends.",
+  "main": "lobby_server.js",
+  "scripts": { "start": "node lobby_server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
